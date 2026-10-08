@@ -7,3 +7,7 @@ def function1():
 def dev_avance():
     print("Dev est entrains d'avancer...")
     return False
+
+def login():
+    print('Login en cours...')
+    return True
