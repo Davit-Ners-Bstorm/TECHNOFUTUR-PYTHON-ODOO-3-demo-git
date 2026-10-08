@@ -12,3 +12,6 @@ def function_instable():
 
 def email_service_1():
     return True
+
+def add_test_2():
+    return True
