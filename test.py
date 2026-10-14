@@ -12,4 +12,6 @@ def function_instable():
 
 def email_service_1():
     return True
-  
+
+def test_fetch():
+    return True
